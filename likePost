@@ -1,0 +1,17 @@
+shema name - LikePost
+
+ema field hase
+
+id, userId, isLike, postId
+atlu 
+
+api post hase ema
+
+userId - Auth token par thi levani
+postId - user Pass krse
+
+have ama aggregate kari ne postid par thi like post na table na data batav ok
+
+1 postid ma 2-3 user ni like nakh etle idea ave ok sem postid use karine
+
+have e post Id main je user ni token che e user e post par like kryu che ke ni e response ma apvanu che
